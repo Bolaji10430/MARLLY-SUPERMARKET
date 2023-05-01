@@ -39,4 +39,4 @@ Data modelling was carriedout to create a synergy between the foreign key and pr
 ## DASHBOARD
 
 ### ANALYSIS
-[MALLY PIX](https://user-images.githubusercontent.com/124039605/235483316-bd033aa4-80fe-443e-8288-192b2d7bf72d.png)
+!(https://user-images.githubusercontent.com/124039605/235483316-bd033aa4-80fe-443e-8288-192b2d7bf72d.png)
