@@ -2,7 +2,10 @@
 
 SUPERMARKET
 
-SUMMARY
+## SUMMARY
+The aim of this project is to analyse and gain more insights from dataset of mally supermarket.The goal is to identify patterns 
+and provide recommendations for effective implementation to improve sales. The dataset involves paymentmode, salestype, productcategory
+
 
 ## PROBLEM STATEMENT
 *   monthly analysis
