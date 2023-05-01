@@ -9,4 +9,7 @@
 *   daily sales analysis
 *  payment mode analysis
    
-##  DASHBOARD![MALLY SNIPING PIX](https://user-images.githubusercontent.com/124039605/235483316-bd033aa4-80fe-443e-8288-192b2d7bf72d.png)
+## DASHBOARD
+
+### ANALYSIS
+[MALLY SNIPING PIX](https://user-images.githubusercontent.com/124039605/235483316-bd033aa4-80fe-443e-8288-192b2d7bf72d.png)
