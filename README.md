@@ -21,6 +21,13 @@ Data modelling was carriedout to create a synergy between the foreign key and pr
 
 ## PROBLEM STATEMENT
 *   monthly analysis
+    In the monthly analysis, January made highest profit of $7,056.96 and a total selling value of $41,000 
+    with a profit percentage of 21%. while May had the least profit of $4,384,450 with percentage profit of 17% and
+    April had the lowest total selling value of $26,579,11 between the period of 2021 and 2022 respectively.
+    ![Capture 3](https://user-images.githubusercontent.com/124039605/235517254-2e18e1ee-b74b-48fe-bba6-e8706468ef38.PNG)
+
+    
+   
 *   product analysis
 *   sales type
 *   total sales
