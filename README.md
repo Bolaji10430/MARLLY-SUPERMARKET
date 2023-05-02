@@ -8,6 +8,17 @@ visuals, format dashboard background and format visuals.
 The aim of this project is to analyse and gain more insights from dataset of mally supermarket.The goal is to identify patterns 
 and provide recommendations for effective implementation to improve sales. The dataset involves paymentmode, salestype, productcategory.
 
+## PROBLEM STATEMENT
+* payment mode
+* product analysis
+* product categories
+* Total sales 
+* total revenue
+* profit %
+* sales type 
+* daily sales analysis
+    
+
 ## TOOLS
 * Excel
 * DAX(Powerbi)
@@ -24,15 +35,7 @@ Data modelling was carriedout to create a synergy between the foreign key and pr
 
 
 
-## PROBLEM STATEMENT
-* payment mode
-* product analysis
-* product categories
-* Total sales 
-* total revenue
-* profit %
-* sales type 
-* daily sales analysis
+
     
     ![Capture 3](https://user-images.githubusercontent.com/124039605/235517254-2e18e1ee-b74b-48fe-bba6-e8706468ef38.PNG)
 
